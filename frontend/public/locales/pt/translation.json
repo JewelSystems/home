@@ -1,0 +1,27 @@
+{
+    "Who":{
+        "1": "Sobre nós"
+    },
+    "Solutions":{
+        "1": "Soluções"
+    },
+    "Contact":{
+        "1": "Contato"
+    },
+    "Home":{
+        "1": "Primeiro texto da página inicial",
+        "2": "Segundo texto da página inicial"
+    },
+    "Who-text":{
+        "1": "Primeiro texto sobre nós",
+        "2": "Segundo texto sobre nós"
+    },
+    "Solutions-text":{
+        "1": "Primeiro texto sobre soluções",
+        "2": "Segundo texto sobre soluções"
+    }, 
+    "Contact-text":{
+        "1": "Primeiro texto sobre contatos",
+        "2": "Segundo texto sobre contatos"
+    }
+}

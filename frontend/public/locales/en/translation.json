@@ -1,0 +1,27 @@
+{
+    "Who":{
+        "1": "Abouts us"
+    },
+    "Solutions":{
+        "1": "Solutions"
+    },
+    "Contact":{
+        "1": "Contact"
+    },
+    "Home":{
+        "1": "First text of the homepage",
+        "2": "Second text of the homepage"
+    },
+    "Who-text":{
+        "1": "First text about us",
+        "2": "Second text about us"
+    }, 
+    "Solutions-text":{
+        "1": "First text about solutions",
+        "2": "Second text about solutions"
+    }, 
+    "Contact-text":{
+        "1": "First text about contacts",
+        "2": "Second text about contacts"
+    }
+}
