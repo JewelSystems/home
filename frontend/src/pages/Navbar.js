@@ -1,7 +1,8 @@
 import React from 'react';
 import '../styles/Navbar.css'
-//import '../js/navbar_script'
 
+import { Link } from 'react-router-dom'
+//import '../js/navbar_script'
 //import logo from '../images/temp_logo.svg';
 
 export default function Navbar(){
@@ -20,12 +21,11 @@ export default function Navbar(){
                     LOGO
                 </div>
                 <div className="menu">
-                    {console.log('teste')}
                     <ul>
-                    <li><a href="/"><strong>Home</strong></a></li>
-                    <li><a href="/who"><strong>Quem Somos</strong></a></li>
-                    <li><a href="/solutions"><strong>Soluções</strong></a></li>
-                    <li><a href="/contact"><strong>Contato</strong></a></li>
+                    <li><Link to="/"><strong>Home</strong></Link></li>
+                    <li><Link to="/who"><strong>Quem Somos</strong></Link></li>
+                    <li><Link to="/solutions"><strong>Soluções</strong></Link></li>
+                    <li><Link to="/contact"><strong>Contato</strong></Link></li>
                     </ul>
                 </div>
                 </nav>
